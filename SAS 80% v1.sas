@@ -79,13 +79,3 @@ proc print data=amphibians noobs;
 	title 'Sites Richest in Amphibians';
 run;
 ods pdf close;
-
-
-
-
-
-
-
-
-
-
