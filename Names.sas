@@ -56,5 +56,3 @@ run;
 proc print data=male_names;
 	where fraction > 0.005;
 run;
-
-
