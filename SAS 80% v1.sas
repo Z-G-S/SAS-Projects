@@ -1,3 +1,9 @@
+/* The aim of this SAS code is to analyse the data on different species of
+amphibians at 189 sites at two planned motorways in Poland. The code will
+import the data from amphibians.xlsx, analyse the 7 amphibian variables,
+develop a logistic regression model, and produce a PDF report of the
+richest sites in amphibians. */
+
 /* Q1: Import amphibians.xlsx datafile */
 proc import datafile='\Users\zaksu\OneDrive\Desktop\Y1 Semester 2\SAS Programming\Coursework 80%\amphibians.xlsx'
 	out=amphibians
