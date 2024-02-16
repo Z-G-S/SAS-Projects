@@ -3,7 +3,9 @@ This repository contains two SAS based projects that I completed as part of my B
 
 # Grade
 Names Project: **95%**
+
 Amphibians Project: **92%**
+
 _First Class Grade is 70% or greater._
 
 # Output
